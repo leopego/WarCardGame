@@ -1,3 +1,3 @@
 # WarCardGame
  
-A simple card war game.
+A simple card game.
